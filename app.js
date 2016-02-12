@@ -4,7 +4,7 @@ var config = {
 
   app_id: 942,
   
-  app_name: 'Click Dice',
+  app_name: 'ClickDice',
  
   recaptcha_sitekey: '6Lc0FBgTAAAAABc-fprpKrFQN-Mb94uft3uhCkth',  // <----- EDIT ME!
   redirect_uri: 'https://ClickDice.github.io',
