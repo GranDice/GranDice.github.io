@@ -7,7 +7,7 @@ var config = {
   app_name: 'Click Dice',
  
   recaptcha_sitekey: '6Lc0FBgTAAAAABc-fprpKrFQN-Mb94uft3uhCkth',  // <----- EDIT ME!
-  redirect_uri: 'ClickDice.github.io',
+  redirect_uri: 'https://untitled-dice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
