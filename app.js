@@ -1,13 +1,18 @@
 
 
-var config = {
+// Untitled Dice v0.0.8
 
-  app_id: 942,
-  
-  app_name: 'ClickDice',
- 
+// Customize these configuration settings:
+
+var config = {
+  // - Your app's id on moneypot.com
+  app_id: 942,                             // <----------------------------- EDIT ME!
+  // - Displayed in the navbar
+  app_name: 'Click Dice',
+  // - For your faucet to work, you must register your site at Recaptcha
+  // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Lc0FBgTAAAAABc-fprpKrFQN-Mb94uft3uhCkth',  // <----- EDIT ME!
-  redirect_uri: 'https://ClickDice.github.io',
+  redirect_uri: 'https://untitled-dice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
@@ -23,6 +28,7 @@ var config = {
   // - The amount of bets to show on screen in each tab
   bet_buffer_size: 25
 };
+
 
 ////////////////////////////////////////////////////////////
 // You shouldn't have to edit anything below this line
