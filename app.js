@@ -1,15 +1,12 @@
-// Untitled Dice v0.0.8
 
-// Customize these configuration settings:
 
 var config = {
-  // - Your app's id on moneypot.com
-  app_id: 18,                             // <----------------------------- EDIT ME!
-  // - Displayed in the navbar
-  app_name: 'Untitled Dice',
-  // - For your faucet to work, you must register your site at Recaptcha
-  // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
+
+  app_id: 942,
+  
+  app_name: 'Click Dice',
+ 
+  recaptcha_sitekey: '6Lc0FBgTAAAAABc-fprpKrFQN-Mb94uft3uhCkth',  // <----- EDIT ME!
   redirect_uri: 'https://untitled-dice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
