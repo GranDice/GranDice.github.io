@@ -11,7 +11,7 @@ var config = {
   app_name: 'AggressiveMouseStudios',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6Lc0FBgTAAAAABc-fprpKrFQN-Mb94uft3uhCkth',  // <----- EDIT ME!
+  recaptcha_sitekey: '6Lc0FBgTAAAAAD2pUITJ98L1S62nCj9t5MdREiEG',  // <----- EDIT ME!
   redirect_uri: 'https://AggressiveMouseStudios.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
