@@ -12,6 +12,7 @@ body {
 /* ChatBox */
 
 .chat-list {
+    opacity: 0.5;
     overflow-y: scroll;
     height: 215px;
     word-wrap: break-word;
