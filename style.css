@@ -1,5 +1,6 @@
 body {
     margin-top: 20px;
+    background: url(http://www.pixeden.com/media/k2/galleries/220/003-wood-melamine-subttle-pattern-background-pat.jpg);
 }
 
 .navbar .navbar-brand {
@@ -19,6 +20,7 @@ body {
 }
 
 .chat-list li {
+    background: url(http://www.pixeden.com/media/k2/galleries/220/003-wood-melamine-subttle-pattern-background-pat.jpg);
     /* Since .focus() is used to scroll to last message item,
        turn off the outline that appears by default */
     outline: none;
