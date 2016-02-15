@@ -8,11 +8,11 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 942,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'AMSDice',
+  app_name: 'GranDice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Lc0FBgTAAAAAD2pUITJ98L1S62nCj9t5MdREiEG',  // <----- EDIT ME!
-  redirect_uri: 'https://AggressiveMouseStudios.github.io',
+  redirect_uri: 'https://grandice.github.io/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
